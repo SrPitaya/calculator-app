@@ -12,9 +12,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 # Steps to Run the Project
 
 1. Clone this repository to your local machine:
-   
+   ```bash
    git clone https://github.com/SrPitaya/calculator-app.git
-
+   ```
 2. Navigate to the project directory:
 
    cd <directory-name>
