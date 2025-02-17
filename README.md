@@ -9,17 +9,23 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
-1. Install dependencies
+# Steps to Run the Project
 
-   ```bash
+1. Clone this repository to your local machine:
+   
+   git clone https://github.com/SrPitaya/calculator-app.git
+
+2. Navigate to the project directory:
+
+   cd <directory-name>
+
+3. Install the project dependencies:
+
    npm install
-   ```
 
-2. Start the app
+4. Start the application on your device or emulator:
 
-   ```bash
-    npx expo start
-   ```
+   npm start
 
 In the output, you'll find options to open the app in a
 
