@@ -1,10 +1,11 @@
-# Welcome to your Expo app 👋
+# This project is brought to you by **Sr. Pitaya**. 
+
+This project is brought to you by **Sr. Pitaya**. It is a university practice project for **React Native** development. The goal of this project is to apply and demonstrate the knowledge learned during the course, while exploring the capabilities of Expo and React Native.
+
+
+## Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## About this project
-
-This project is brought to you by **Sr. Pitaya**. 
 
 ## Get started
 
